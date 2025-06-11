@@ -2,7 +2,7 @@
 
 This is a Jeopardy-style trivia game themed around the Harry Potter universe. It was built in Python as part of an introductory computer science course to demonstrate structured logic, use of custom data, and basic graphical interaction using a simplified drawing library.
 
-> 🧙‍♀️ Note: This project was developed for educational purposes and is not affiliated with or endorsed by the Harry Potter franchise or Warner Bros.
+> Note: This project was developed for educational purposes and is not affiliated with or endorsed by the Harry Potter franchise or Warner Bros.
 
 ---
 
